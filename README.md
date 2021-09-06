@@ -1,6 +1,11 @@
 # Unoprom
 A programmer for the AT28256 EEPROM, based on the Arduino Uno and 8-bit shift register,with a mini-interface in Python.
 
+<p float="left">
+  <img src="https://github.com/Bastian1110/Unoprom/blob/master/Imgs/Phto.jpg" width=40% />
+  <img src="https://github.com/Bastian1110/Unoprom/blob/master/Imgs/SS.png" width=40% />
+</p>
+
 ## Based-On
 This project can be considered a mixture of several projects, it is based on the [TommyPROM Programmer](https://github.com/TomNisbet/TommyPROM/tree/master/unlock-ben-eater-hardware) (the part of the management of Arduino registers) and the [Crymaykish Programmer](https://github.com/crmaykish/AT28C-EEPROM-Programmer-Arduino) (for the Arduino-Python interaction).
 
